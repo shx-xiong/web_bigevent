@@ -10,7 +10,7 @@ body {
     align-items: center;
 }
 
-#form-add {
+.layui-form {
     padding-top: 20px;
     padding-right: 30px;
 }
